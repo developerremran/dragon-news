@@ -1,0 +1,10 @@
+.categoryHover:hover{
+    background-color: rgb(202, 200, 200);
+    color: black;
+    width: 100%;
+    padding: 10px;
+}
+.categoryHover{
+    color: rgb(129, 124, 124);
+    font-weight: 600;
+}
